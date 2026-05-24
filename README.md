@@ -150,26 +150,6 @@ Monitors 50+ live AI sources (arXiv, Reddit, YouTube, HF Hub), processes 300+ ar
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushDeshmukh18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB3FF&icon_color=7EB3FF&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180px"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushDeshmukh18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7EB3FF&text_color=c9d1d9&langs_count=8" height="180px"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushDeshmukh18&theme=tokyonight&hide_border=true&background=0d1117&stroke=7EB3FF&ring=7EB3FF&fire=FF6B35&currStreakLabel=7EB3FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="70%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushDeshmukh18&bg_color=0d1117&color=7EB3FF&line=7EB3FF&point=FF6B35&area=true&area_color=7EB3FF&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 ## 🏅 Highlights
 
 <div align="center">
